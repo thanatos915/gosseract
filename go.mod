@@ -1,3 +1,3 @@
 module github.com/thanatos915/gosseract/v2
 
-require github.com/otiai10/mint v1.3.0
+require github.com/thanatos915/mint v1.3.0
